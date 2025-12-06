@@ -7,3 +7,5 @@ Enemy Boss Character Model (Grux) - https://www.fab.com/listings/8c4bac2c-f7f7-4
 World - Cave Ruins - https://www.fab.com/listings/c437d905-5078-4e59-88ed-d585ef20050b - Fab Standard License
 
 World Background Music - Dark Dungeon Ambient Music (Ultra Pack 1) - https://www.fab.com/listings/717f210d-4aa7-4ea6-806c-aa802852f85d - Fab Standard License
+
+Title Font - Ebon Sigil - 1001Fonts Free For Personal Use License (FFP)

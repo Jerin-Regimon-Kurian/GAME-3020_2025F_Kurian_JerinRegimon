@@ -3,6 +3,13 @@ In this semester, I am thinking of creating a souls-like game mainly based on a 
 
 I have used Unreal Engine v5.6 for this project. 
 
+How To Play:-
+1. Press PLAY Button in the Main Menu.
+2. Find a sword from nearby.
+3. The enemies will chase you once they get your sight. Use your skills to attack and dodge at the right time to defeat them.
+4. Climb up the stairs to find the final boss.
+5. Defeating the final boss will get you a key, which can be used to complete the level by reaching to the door on top. The door would have a spot light facing towards it.
+
 Basic controls:-
 Control			Keyboard & Mouse		Controller/Gamepad
 Movement		  WASD/Arrow Keys		  Left Thumb Stick
