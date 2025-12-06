@@ -1,0 +1,46 @@
+Hello there.
+In this semester, I am thinking of creating a souls-like game mainly based on a simple combat system with a few enemies utilizing the AI features of unreal engine 5.
+
+I have used Unreal Engine v5.6 for this project. 
+
+Basic controls:-
+Control			Keyboard & Mouse		Controller/Gamepad
+Movement		  WASD/Arrow Keys		  Left Thumb Stick
+Basic Attack		  Left Mouse Button		  Right Shoulder Button(R1/RB)
+Camera 			  Mouse Look			  Right Thumb Stick
+Jump			  Spacebar			  Front Face Bottom Button(Cross/X)
+Dodge			  Left Control			  Front Face Right Button(Circle/B)
+Lock-Camera		  Middle Mouse Button		  Right Thumb Stick Click(R3/RS)
+Heal			  V				  D-Pad Down arrow
+Buff Potion		  C				  D-Pad Right arrow
+
+Initial Features done in Proof of Concept:-
+1. Movement in all directions, including walk, dodging and jumping.
+2. Basic Attack.
+3. Basic Enemy AI which chases the player and attacks if in range.
+4. Health and Stamina system along with a HUD.
+5. A Boss Enemy with a basic attack and a heavy attack.
+6. Lock-On Camera System.
+
+Final State of the Game:-
+1. Can be played entirely with both Keyboard and Mouse as well as a Gamepad/Controller.
+2. Starts from the Main Menu and contains different scenes for Information, GameScene and EndCredits.
+3. Has Specific music for each scenes and a boss battle music for when the boss fight starts, as well as sound effects to weapon pickup, sword slashes, sword impact etc.
+4. Improved Gameplay with a healing and buff potion using system.
+5. Framerate is stable for most part but drops during the boss fight.
+6. Improved UI System for boss battle.
+7. Assets for player and enemies is setup accordingly.
+8. Environment a.k.a World is imported to the Gameplay Level.
+
+Missing features from initial design:-
+1. Stealth Assassination i.e. Backstab to enemies when undetected.
+2. Special Attack/Magic Attack.
+3. Enemy variety. Only has Basic Enemy and Boss Enemy as of now.
+4. An interact system to inspect and pickup items.
+
+Challenges Faced/ Issues Occurred:-
+1. Main issue was the lack of usable assets for free. I struggled to find a World asset which could be pushed to GitHub and fit the aesthetics the game needed.
+2. Animation Mapping to Characters: Found it difficult to Assign Animations to the enemy assets that I had previously thought of using.
+3. Bad Time Management: Should have already planned ahead with a time schedule for each feature and each mechanism.
+4. Performance Issue: Could not optimise the game as well as I wanted it to be. Tried to avoid the choppiness using screen space reflections instead of lumen but it was breaking the Navigation System for the Enemy AI.
+

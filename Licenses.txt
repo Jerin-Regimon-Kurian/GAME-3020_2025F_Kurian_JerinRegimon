@@ -1,0 +1,9 @@
+Movement Animations:- Gorka Games from the description of the tutorial video:- https://youtu.be/Hs2sM7eFf6Q - Free for personal Use
+
+Player and base Enemy Character model (Kwang) - https://www.fab.com/listings/f4c67e92-b976-4b5b-ab9f-4c25b010f6f3 - Fab Standard License
+
+Enemy Boss Character Model (Grux) - https://www.fab.com/listings/8c4bac2c-f7f7-4632-a644-47f4e104f5d8 - Fab Standard License
+
+World - Cave Ruins - https://www.fab.com/listings/c437d905-5078-4e59-88ed-d585ef20050b - Fab Standard License
+
+World Background Music - Dark Dungeon Ambient Music (Ultra Pack 1) - https://www.fab.com/listings/717f210d-4aa7-4ea6-806c-aa802852f85d - Fab Standard License

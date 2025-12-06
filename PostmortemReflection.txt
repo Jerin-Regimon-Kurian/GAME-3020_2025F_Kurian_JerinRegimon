@@ -1,0 +1,42 @@
+What all helped me in this project?
+
+1.How to Create a Souls-Like Game in Unreal Engine 5 - Full Course by Gorka Games in YouTube (https://youtu.be/Hs2sM7eFf6Q)
+  This tutorial served as a basic guide for me to implement the basic gameplay mechanics required for the project. 
+
+2.Fab Marketplace
+  Fab was the main asset provider for the project. It helped me get free assets compatible for the engine version. 
+
+
+Development Process:-
+
+1. Initial design was to build a simple combat game similar the souls games by From Software.
+2. Core gameplay features like movement, combat(attacks and dodging), Health and Stamina systems were implemented mainly using Blueprints and Blueprint Components.
+3. Enemy AI was created using Blackboard and Behaviour Tree present in Unreal Engine. Separate behaviour trees were used for base enemy and boss enemy.
+4. Lock on camera Aim was setup with the help of tutorial video mentioned above.
+5. Enemy and Player assets including meshes and animations were found from Fab Marketplace for Unreal Engine.
+6. Repeated testing and debugging helped in finding and solving unexpected issues.
+
+Challenges Faced:-
+1. Asset Finding:- Most of the assets which I had in mind was not being compatible with my gameplay mechanics. 
+		   The worlds which I was more interested to import into the game were too big to push to the GitHub repository.
+		   
+2. Performance issues:- The game was feeling choppy for mostly the boss fight parts due to heavier load, which was improved by having a smooth framerate ranging from 30-60fps.
+
+
+3. Overambitious Initial Design:- My initial was quite too big to be done well in this time-frame with limited assets.
+				  
+
+Lessons Learned:-
+1. Should plan for a project with much more realistic scope than a larger design. Should prioritize core gameplay than advanced features.
+2. Finding assets compatible for the game mechanics is much more important than its visual aesthetics.
+3. Have more polished features than a lot of buggy features which could make the game frustrating.
+4. Consider having a proper time management rather than rushing the development. 
+
+
+Areas for future improvement:-
+1. Expanded enemy variety to make the game more interesting.
+2. More combat approaches, like Magic attack, Charged attacks, Parrying system and Special attacks for different weapons.
+3. Advanced Inventory and Equipment system: armor system, weapon types and upgrades for equipment.
+4. Level Design could be made more interesting.
+5. Save/Load system. Could also be a rest site system like in most souls games.
+6. Better optimization as well as scalable graphics quality from the game menu.
